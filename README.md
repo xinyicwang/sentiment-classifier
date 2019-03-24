@@ -4,7 +4,7 @@ This classifier predicts the sentiment of phrases found in movie reviews on a sc
 
 The classifier is trained using a logistic regression model and a convolutional neural network separately to investigate the performance of its accuracy in prediction.
 
-For detailed documentation, visit the [Jupyter Notebook walkthrough](https://github.com/cindywang3299/twitter-sentiment-analyzer/tree/master/models) and [notes](https://github.com/cindywang3299/twitter-sentiment-analyzer/tree/master/deliverables) during the development process. The trained weights have been applied using Flask, using a new dataset of movie reviews to validate the training outcomes.
+For detailed documentation, visit the [Jupyter Notebook walkthrough](https://github.com/cindywang3299/sentiment-classifier/tree/master/models) and [notes](https://github.com/cindywang3299/sentiment-classifier/tree/master/deliverables) during the development process. The trained weights have been applied using Flask, using a new dataset of movie reviews to validate the training outcomes.
 
 ## Datasets
 - [IMDB Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
@@ -14,10 +14,10 @@ For detailed documentation, visit the [Jupyter Notebook walkthrough](https://git
 Here is a quick demo:
 
 
-![alt text](https://github.com/cindywang3299/sentiment-analysis/blob/master/demo/submission.png)
+![alt text](https://github.com/cindywang3299/sentiment-classifier/blob/master/demo/submission.png)
 
 
-![alt text](https://github.com/cindywang3299/sentiment-analysis/blob/master/demo/result.png)
+![alt text](https://github.com/cindywang3299/sentiment-classifier/blob/master/demo/result.png)
 
 
 Did it guess correctly? Feel free to give feedback to further improve the model!

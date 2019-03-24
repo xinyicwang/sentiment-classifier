@@ -4,11 +4,11 @@ This classifier predicts the sentiment of phrases found in movie reviews on a sc
 
 It is trained using a logistic regression model and a convolutional neural network separately to investigate the performance of its accuracy in prediction.
 
-For detailed documentation, visit the [Jupyter Notebook walkthrough](https://github.com/cindywang3299/sentiment-classifier/tree/master/models) and [notes](https://github.com/cindywang3299/sentiment-classifier/tree/master/deliverables) during the development process. The trained weights have been applied using Flask, using a new dataset of movie reviews to validate the training outcomes.
+For detailed documentation, visit the [Jupyter Notebook walkthrough](https://github.com/cindywang3299/sentiment-classifier/tree/master/models) and [notes](https://github.com/cindywang3299/sentiment-classifier/tree/master/deliverables) during the development process. The trained weights have been applied to the model using Flask, using a new dataset of movie reviews to validate training outcomes.
 
 ## Datasets
-- [IMDB Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
-- [Sentiment140](http://ai.stanford.edu/~amaas/data/sentiment/)
+- [IMDB Reviews](http://ai.stanford.edu/~amaas/data/sentiment/)
+- [Sentiment140](http://help.sentiment140.com/for-students)
 
 ## Demo
 Here is a quick demo:

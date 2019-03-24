@@ -13,11 +13,12 @@ For detailed documentation, visit the [Jupyter Notebook walkthrough](https://git
 ## Demo
 Here is a quick demo:
 
-Submitting a review:
+
 ![alt text](https://github.com/cindywang3299/sentiment-analysis/blob/master/demo/submission.png)
 
-Getting feedback from the classifier:
+
 ![alt text](https://github.com/cindywang3299/sentiment-analysis/blob/master/demo/result.png)
+
 
 Did it guess correctly? Feel free to give feedback to further improve the model!
 
@@ -42,6 +43,7 @@ python -m venv .mais-env
 2. Activate the environment so we are using the fresh, new python environment.
 
 UNIX or MacOS: `source .mais-env/bin/activate`
+
 Windows: `.mais-env\Scripts\activate`
 
 3. Use the requirements.txt file to install all the dependencies in your newly created environment:
@@ -52,7 +54,7 @@ pip install -r requirements.txt
 ```
 python -m ipykernel install --user --name .mais-env --display-name "Python (MAIS-202)"
 ```
-5. Finally, open the `jupyter notebook` of the sentiment_analysis.
+5. Finally, open the `jupyter notebook` of sentiment_analysis.
 
 ## File structure
 - /movieclassifier

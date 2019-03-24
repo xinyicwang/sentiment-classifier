@@ -2,7 +2,7 @@
 
 This classifier predicts the sentiment of phrases found in movie reviews on a scale of being positive (1) or negative (0).
 
-The classifier is trained using a logistic regression model and a convolutional neural network separately to investigate the performance of its accuracy in prediction.
+It is trained using a logistic regression model and a convolutional neural network separately to investigate the performance of its accuracy in prediction.
 
 For detailed documentation, visit the [Jupyter Notebook walkthrough](https://github.com/cindywang3299/sentiment-classifier/tree/master/models) and [notes](https://github.com/cindywang3299/sentiment-classifier/tree/master/deliverables) during the development process. The trained weights have been applied using Flask, using a new dataset of movie reviews to validate the training outcomes.
 
